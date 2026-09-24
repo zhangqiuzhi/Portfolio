@@ -77,3 +77,7 @@
 
 /* Approved author-note styling for the literary event article. */
 .reader .prose .author-note{font-size:15px;line-height:1.9;color:#72736c;margin-bottom:1.6em}.reader .prose .author-aside{font-size:.84em;line-height:inherit;color:#72736c}
+
+/* Account performance beneath the existing introduction. */
+.hero .profile-stats{font:15px/1.9 var(--sans);color:var(--muted);margin:14px 0 0;max-width:36em}.profile-stats strong{font-weight:700;color:#884936}.hero{align-items:center}
+@media(max-width:620px){.hero .profile-stats{font-size:14px;line-height:1.85;margin-top:12px}}
