@@ -74,3 +74,6 @@
 @media(max-width:620px){.masthead{flex-wrap:wrap;gap:14px}.header-nav{gap:18px;flex-wrap:wrap}.header-nav a{white-space:nowrap}.header-nav .nav-en{font-size:10px}}
 
 .contact-account{font:17px/1.6 var(--sans);margin:8px 0 0;color:var(--ink)}.social-card .work-info strong{font-weight:700;color:#884936}
+
+/* Approved author-note styling for the literary event article. */
+.reader .prose .author-note{font-size:15px;line-height:1.9;color:#72736c;margin-bottom:1.6em}.reader .prose .author-aside{font-size:.84em;line-height:inherit;color:#72736c}
